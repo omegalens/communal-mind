@@ -1,7 +1,7 @@
 # Communal Mind
 
 A collective awareness that reads shared nodes from multiple individual
-[Stream of Consciousness](https://github.com/OWNER/stream-of-consciousness) minds
+[Stream of Consciousness](https://github.com/omegalens/stream-of-consciousness) minds
 and synthesizes cross-mind patterns — connections no single mind could see.
 
 ## Prerequisites
@@ -112,7 +112,7 @@ If a communal insight sparks a thought, members capture it with `/think` in thei
 ## Updating Skills
 
 ```bash
-./update-skills.sh https://github.com/OWNER/communal-mind.git
+./update-skills.sh https://github.com/omegalens/communal-mind.git
 ```
 
 ## Learn More
