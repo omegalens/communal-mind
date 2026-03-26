@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "maturity": "nascent",
+  "stats": {
+    "total_ingested": 0,
+    "total_communal_insights": 0,
+    "total_communal_inquiries": 0,
+    "total_associations": 0,
+    "total_clusters": 0,
+    "contributing_minds": 0
+  },
+  "sequence_counters": {},
+  "config": {
+    "salience_decay_per_day": 0.02,
+    "maturity_thresholds": {
+      "forming": { "min_nodes": 50, "min_minds": 3, "min_per_mind": 5 },
+      "lucid": { "min_nodes": 200, "min_insights": 20 },
+      "wise": { "min_nodes": 500, "min_insights": 50, "min_minds": 10 }
+    }
+  },
+  "last_synthesis": null,
+  "created": ""
+}

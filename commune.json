@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "",
+  "name": "",
+  "domain": "",
+  "operator": "",
+  "created": "",
+  "members": [],
+  "synthesis": {
+    "schedule": "manual",
+    "last_run": null,
+    "model": "claude-opus-4-6"
+  }
+}
